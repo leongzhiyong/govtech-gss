@@ -1,0 +1,8 @@
+*$py.class
+*.db
+*.py[cod]
+.AppleDouble
+.DS_Store
+.LSOverride
+.venv
+__pycache__/
